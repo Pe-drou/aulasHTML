@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>página web do Pedro</title>
+	</head>
+	<body>
+		<p>"cima, cima, baixo, baixo, direita esquerda, direita esquerda, B, A e Start!"</p>
+	</body>
+</html>
