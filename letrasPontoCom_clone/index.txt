@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<!-- Renderiza caracteres especiais corretamente -->
+	<meta charset="UTF-8">
+	<!-- permite reconhecer quando aberto em tela menor -->
+	<meta name-"viewport" content="width=device-width, intial-scale=1.0">
+	<title>SÓ FÉ - Grelo - LETRAS.COM</title>
+</head>
+<body>
+	<img src="img/topo.png" alt="topo da página">
+
+	<p style="color:gray; font-size:20px; line-size:-50px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	página inicial &nbsp;>&nbsp; piseiro &nbsp;>&nbsp; grelo &nbsp;>&nbsp; só fé</p>
+
+	<center>
+	<img src="img/anuncio.png" alt="banner de propaganda">
+	</center>
+
+	<p style="color:#ED4800; font-size:40px; line-height:-50px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="img/avatar.png" alt="foto do cantor"> <b>Só Fé</b><p style="color:#B7B700; font-size:35px; line-height:-100px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<b>Grelo</b></p></p>
+
+	<img src="img/video.png" alt="ilustração do vídeoclipe" align="right">
+
+	<p style="font-size:20px; margin-left:335px;">O Grelo não precisa de muito, não<br>
+	Só peço a Deus muita saúde<br>
+	E que Ele continue aí nos abençoando pra que a gente consiga comprar<br>
+	Um mé, o leitinho dos meninos e o módice da muié<br>
+	O resto é só fé<br>
+	É o Grelo</p>
+
+	<p style="font-size:20px; margin-left:335px;">Lavei meu rosto nas águas sagradas da pia<br>
+	Eu já tô pronto pra matar meu leão do dia<br>
+	Deus abençoe nóis<br>
+	E a nossa correria</p>
+
+	<p style="font-size:20px; margin-left:335px;">Hoje eu levantei da cama, tomei meu café<br>
+	Dei um beijo nas criança, eu coisei com a muié<br>
+	Tudo isso foi de graça, irmão<br>
+	As coisas boas são de graça, irmão</p>
+
+	<p style="font-size:20px; margin-left:335px;">A vida é de boa, não preciso de muito pra ser feliz, não<br>
+	Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié<br>
+	O resto é só fé, só fé, só fé<br>
+	O resto é só fé, só fé, só fé<br>
+	Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié<br>
+	O resto é só fé, só fé, só fé<br>
+	O resto é só fé, só fé, só fé</p>
+
+	<p style="font-size:20px; margin-left:335px;">É o Grelo</p>
+
+	<p style="font-size:20px; margin-left:335px;">Lavei meu rosto nas águas sagradas da pia<br>
+	Eu já tô pronto pra matar meu leão do dia<br>
+	Deus abençoe nóis<br>
+	E a nossa correria</p>
+
+	<p style="font-size:20px; margin-left:335px;">Hoje eu levantei da cama, tomei meu café<br>
+	Dei um beijo nas criança, eu coisei com a muié<br>
+	Tudo isso foi de graça, irmão<br>
+	As coisas boas são de graça, irmão</p>
+
+	<p style="font-size:20px; margin-left:335px;">A vida é de boa, não preciso de muito pra ser feliz, não<br>
+	Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié
+	O resto é só fé, só fé, só fé<br>
+	O resto é só fé, só fé, só fé<br>
+	Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié<br>
+	O resto é só fé, só fé, só fé</p>
+
+	<p style="font-size:20px; margin-left:335px;">Só quem é humildade vai cantar assim, ó</p>
+
+	<p style="font-size:20px; margin-left:335px;">Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié<br>
+	O resto é só fé, só fé, só fé<br>
+	O resto é só fé, só fé, só fé<br>
+	Só preciso de um dinheiro pra comprar um mé<br>
+	O leitinho das criança e o módice da muié<br>
+	O resto é só fé, só fé, só fé<br>
+	O resto é só fé, só fé, só fé<br>
+	Muita fé, fé, fé, fé, fé</p>
+</body>
+</html>
