@@ -4,3 +4,6 @@ há nesse repositório:
 - primeira 4 aulas e o SEO
 - atividade de criação de um site sobre um filme
 - atividade de "clonagem" do LETRAS.COM
+- atividades de listas
+- atividade de "clonagem" do google
+- desafio de criação de uma receita e imagem
