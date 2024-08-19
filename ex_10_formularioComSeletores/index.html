@@ -7,10 +7,25 @@
 </head>
 <body>
     <form action="">
-        <p>Nome:</p> <input type="text" name="nome">
-        <br>
-        <br>
-        <p><input type="checkbox" name="termoDeServico" id="">Eu concordo com os <a href="">termos de serviço.</a> (vender sua alma ao demônio por trás da empresa)</p>
+        <p>Inscrição:</p> <input type="text" name="nome" placeholder="Nome">
+        <!-- input cria uma caixa de texto onde pode colocar informações dentro, placeholder coloca um texto alternativo quando não possui uma informação dentro -->
+        <br><br>
+        <input type="text" name="endereco" placeholder="Endereço">
+        <br><br>
+        <input type="text" name="escola" value="Não alterável" readonly>
+        <!-- "readonly" faz uma caixa de texto não poder ser digitada -->
+        <br><br>
+        <input type="text" name="serie" value="Campo desabilitado" disabled>
+        <!--disabled desliga uma caixa de texto completamente, não podendo ser interagida-->
+        <br><br>
+        <input type="text" name="ano" placeholder="Ano escolar" maxlength="4">
+        <!--maxlenght limita o número de caracteres que pode ser colocado dentro da caixa-->
+        <br><br>
+        <input type="text" name="email" placeholder="Email (obrigatório)" required>
+        <br><br>
+        <input type="submit" value="Enviar">
+        <p><input type="checkbox" name="termoDeServico" id="">Eu concordo com os <a href="">termos de serviço.</a> (vender seu filho ao capeta)</p>
+        <!-- "checkbox" coloca uma caixa de confirmação para clicar -->
     </form>
 </body>
 </html>
