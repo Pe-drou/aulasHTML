@@ -1,9 +1,5 @@
 # Projetos de HTML feito durante a aula
 contem apenas projetos que foi produzido durante a aula usando html
 há nesse repositório:
-- primeira 4 aulas e o SEO
-- atividade de criação de um site sobre um filme
-- atividade de "clonagem" do LETRAS.COM
-- atividades de listas
-- atividade de "clonagem" do google
-- desafio de criação de uma receita e imagem
+- exercicios 1 ao 12
+- desafios adicionais
